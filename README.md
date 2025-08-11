@@ -1,4 +1,4 @@
-# 🌟 Naason Perez Rojas | @solitario44
+# 🌟 Naason Perez Rojas 
 
 <div align="center">
 
@@ -13,13 +13,11 @@
 ---
 
 ## 🚀 Sobre Mí
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
 class NaasonPerezRojas:
     def __init__(self):
-        self.username = "solitario44"
         self.profession = ["Full Stack Developer", "Meteorological Engineer"]
         self.passion = "Automatizations & Web Development"
         self.current_focus = "Climate Data + Modern Tech"
@@ -28,9 +26,10 @@ class NaasonPerezRojas:
     def get_skills(self):
         return {
             "languages": ["Python", "JavaScript", "PHP", "R", "HTML", "CSS"],
+            "databases": ["SQL", "PostgreSQL"],
             "hardware": ["Arduino", "IoT Sensors"],
-            "automation": ["n8n", "Custom Scripts"],
-            "meteorology": ["GrADS", "Satellite Imagery", "Climate Modeling"],
+            "automation": ["n8n", "MCP", "Custom Scripts"],
+            "meteorology": ["GrADS", "ArcGIS", "WRF Model", "Satellite Imagery", "Climate Modeling"],
             "devops": ["Docker", "Git/GitHub"],
             "specialty": "Weather Data Analysis + Web Solutions"
         }
@@ -56,9 +55,16 @@ class NaasonPerezRojas:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### 🗄️ **Bases de Datos**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🌦️ **Especialidades Meteorológicas**
 ![GrADS](https://img.shields.io/badge/GrADS-4285F4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
+![WRF Model](https://img.shields.io/badge/WRF_Model-00B4D8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTMgM0gyMVYyMUgzVjNaTTUgNVYxOUgxOVY1SDVaTTcgN0gxN1YxN0g3VjdaTTkgOVYxNUgxNVY5SDlaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
 ![Satellite](https://img.shields.io/badge/Satellite_Data-00599C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPgo8L3N2Zz4K&logoColor=white)
 ![Climate](https://img.shields.io/badge/Climate_Modeling-228B22?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggMTJMMTAgMTBMMTQgMTRMMTYgMTJNMjEgMTJDMjEgMTYuOTcgMTYuOTcgMjEgMTIgMjFTMyAxNi45NyAzIDEyUzcuMDMgMyAxMiAzUzIxIDcuMDMgMjEgMTJaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiLz4KPC9zdmc+&logoColor=white)
 
@@ -177,11 +183,11 @@ class NaasonPerezRojas:
 
 ---
 
-## 🏆 **GitHub Trophies**
+<!-- ## 🏆 **GitHub Trophies** -->
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=solitario44&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=solitario44&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 </div>
 
