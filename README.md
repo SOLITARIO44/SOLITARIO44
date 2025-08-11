@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<!-- Language Selector -->
+[![Español](https://img.shields.io/badge/🇪🇸_Idioma-Español-red?style=for-the-badge)](README.md)
+[![English](https://img.shields.io/badge/🇺🇸_Language-English-blue?style=for-the-badge)](README-EN.md)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack+%F0%9F%9A%80;Ingeniero+Meteor%C3%B3logo+%F0%9F%8C%A6%EF%B8%8F;Especialista+en+Automatizaciones+%F0%9F%A4%96;Creador+de+Soluciones+Web+%F0%9F%8C%90;Innovador+Tecnol%C3%B3gico+%E2%9A%A1)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
@@ -13,6 +17,7 @@
 ---
 
 ## 🚀 Sobre Mí
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```python
@@ -102,8 +107,9 @@ class NaasonPerezRojas:
 
 - **Workflows con n8n**
 - **Scripts Python personalizados**
-- **Integración de APIs**
+- **Integración MCP**
 - **Procesos automatizados**
+- **APIs inteligentes**
 
 </td>
 <td align="center" width="33%">
@@ -112,20 +118,22 @@ class NaasonPerezRojas:
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
 - **Frontend moderno**
-- **Backend robusto**
-- **Bases de datos**
-- **Aplicaciones completas**
+- **Backend robusto** 
+- **Bases de datos SQL/PostgreSQL**
+- **Aplicaciones Full Stack**
+- **Arquitecturas escalables**
 
 </td>
 <td align="center" width="33%">
 
 ### 🌦️ **Meteorología Tech**
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="100">
 
-- **Análisis de datos climáticos**
-- **Procesamiento satelital**
-- **Modelos predictivos**
-- **Visualización meteorológica**
+- **Modelos WRF**
+- **Análisis con GrADS**
+- **Procesamiento ArcGIS**
+- **Datos satelitales**
+- **Visualización climática**
 
 </td>
 </tr>
@@ -156,16 +164,16 @@ class NaasonPerezRojas:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/naason-perez-rojas" target="_blank">
+<a href="https://www.linkedin.com/in/naason-milcerio-perez-rojas-5361a527b/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:naason.perez@example.com" target="_blank">
+<a href="mailto:naasonperezrojas@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/solitario44" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://tu-portfolio.com" target="_blank">
+<a href="https://github.com/solitario44" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -173,25 +181,6 @@ class NaasonPerezRojas:
 
 ---
 
-## 📈 **Contribuciones**
-
-<div align="center">
-
-![snake gif](https://github.com/solitario44/solitario44/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<!-- ## 🏆 **GitHub Trophies** -->
-
-<div align="center">
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=solitario44&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-</div>
-
----
 
 ## 💡 **Filosofía de Trabajo**
 
