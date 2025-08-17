@@ -81,14 +81,14 @@ class NaasonPerezRojas:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=solitario44&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solitario44&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=solitarioo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solitarioo1&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=solitario44&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=solitarioo1&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -148,13 +148,13 @@ class NaasonPerezRojas:
 <div align="center">
 
 ### 🔥 **Automation Portfolio**
-[![Portfolio](https://img.shields.io/badge/View_Automations-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/solitario44)
+[![Portfolio](https://img.shields.io/badge/View_Automations-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/solitarioo1)
 
 ### 🌐 **Web Projects Developed**
-[![Web Projects](https://img.shields.io/badge/Web_Projects-4ECDC4?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://github.com/solitario44)
+[![Web Projects](https://img.shields.io/badge/Web_Projects-4ECDC4?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://github.com/solitarioo1)
 
 ### 🌡️ **Meteorological Tools**
-[![Weather Tools](https://img.shields.io/badge/Weather_Tools-45B7D1?style=for-the-badge&logo=cloudflare&logoColor=white)](https://github.com/solitario44)
+[![Weather Tools](https://img.shields.io/badge/Weather_Tools-45B7D1?style=for-the-badge&logo=cloudflare&logoColor=white)](https://github.com/solitarioo1)
 
 </div>
 
@@ -170,10 +170,10 @@ class NaasonPerezRojas:
 <a href="mailto:naasonperezrojas@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/solitario44" target="_blank">
+<a href="https://github.com/solitarioo1" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://github.com/solitario44" target="_blank">
+<a href="https://github.com/solitarioo1" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -202,7 +202,7 @@ class NaasonPerezRojas:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-[![Naason's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=solitario44&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Naason's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=solitarioo1&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -218,8 +218,8 @@ class NaasonPerezRojas:
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=solitario44&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/solitario44?style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=solitarioo1&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/solitarioo1?style=for-the-badge&color=blue)
 
 **⭐ If you like my work, don't forget to star my repositories! ⭐**
 
